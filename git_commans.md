@@ -4,13 +4,15 @@ Describe que hacen los siguientes comandos de git, escribe su descripcion al fre
 
 `git clone`: Se utiliza para clonar un repositorio existente
 
-`git pull`:
+`git clone`: Para cambiar un GIT
 
-`git checkout`:
+`git pull`: Extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local
 
-`git log`:
+`git checkout`: Es para cambiar de rama
 
-`git branch`:
+`git log`: Muestar el hisotrial de cambios
+
+`git branch`: Camabiar nombre
 
 `git add`:
 
